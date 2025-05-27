@@ -1,0 +1,9 @@
+Flask
+Flask-CORS
+opencv-python
+opencv-contrib-python
+numpy
+Pillow
+Werkzeug
+scikit-image
+scikit-learn
