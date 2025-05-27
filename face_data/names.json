@@ -1,0 +1,35 @@
+{
+  "registrations": [
+    {
+      "face_id": 0,
+      "name": "kishore",
+      "registration_timestamp": "2025-05-27 08:33:49",
+      "registration_date": "2025-05-27",
+      "registration_time": "08:33:49"
+    },
+    {
+      "face_id": 1,
+      "name": "Kicha",
+      "registration_timestamp": "2025-05-27 17:03:36",
+      "registration_date": "2025-05-27",
+      "registration_time": "17:03:36"
+    },
+    {
+      "face_id": 2,
+      "name": "Kishore",
+      "registration_timestamp": "2025-05-27 22:49:28",
+      "registration_date": "2025-05-27",
+      "registration_time": "22:49:28"
+    },
+    {
+      "face_id": 3,
+      "name": "kg",
+      "registration_timestamp": "2025-05-27 23:47:06",
+      "registration_date": "2025-05-27",
+      "registration_time": "23:47:06"
+    }
+  ],
+  "counter": 4,
+  "total_registered": 4,
+  "last_updated": "2025-05-27 23:47:06"
+}
