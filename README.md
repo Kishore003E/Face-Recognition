@@ -49,5 +49,19 @@ pip install -r requirements.txt
 python api_server.py
 ```
 ---
+## 🤝 Contributing
+Want to improve or extend this tool?
+Feel free to fork the repo, make changes, and submit a pull request. Contributions are welcome!
+
+## 📬 Connect with Me
+If you like this project or want to collaborate, feel free to reach out!
+
+📧 Email: kicha2003e@gmail.com
+
+💼 LinkedIn: [Join my network](www.linkedin.com/in/kishore-thedeveloper)
+
+🐙 GitHub: [Profile Link](https://github.com/Kishore003E)
+
+---
 
 ### This project is a part of a hackathon run by https://katomaran.com 
