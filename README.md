@@ -16,6 +16,12 @@ It is a browser-based platform to:
 
 - 💬 Chat-Based AI Q&A
 
+## 🖼️ Demo Screenshot
+
+Here’s a preview of the platform in action:
+
+![Face Recognition Demo](output.png)
+
 ## 🧰 Tech Stack
 
 | Module           | Technology                        |
