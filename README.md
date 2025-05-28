@@ -21,6 +21,7 @@ It is a browser-based platform to:
 Here’s a preview of the platform in action:
 
 ![Face Recognition Demo](output.png)
+[Demo_Video](https://drive.google.com/file/d/1etripBFMzevANB7tyi_S2PexrozZ2duT/view?usp=sharing)
 ## 🧰 Tech Stack
 
 | Module           | Technology                        |
