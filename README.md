@@ -21,7 +21,6 @@ It is a browser-based platform to:
 Here’s a preview of the platform in action:
 
 ![Face Recognition Demo](output.png)
-![Face Recognition Demo Video](output_video.mp4)
 ## 🧰 Tech Stack
 
 | Module           | Technology                        |
